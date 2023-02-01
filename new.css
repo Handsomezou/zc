@@ -5,6 +5,7 @@
   list-style: none;
 }
 
-h1 {
+div {
   color: skyblue;
+  margin-top: 10px;
 }
